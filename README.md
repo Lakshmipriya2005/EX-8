@@ -4,7 +4,7 @@
 
 # EXP: 8
 
-# DATE:26-04-2023
+# DATE:
 
 # AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
